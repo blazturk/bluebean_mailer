@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Bluebean Mailer</title>
+    <title>Mailer Extended</title>
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
     <link rel="stylesheet" type="text/css" href="includes/css/style.css">
 </head>
@@ -21,8 +21,7 @@
       </div>
     </header>
     <div class="px-4 py-5 my-5 text-center">
-      <img src="includes/assets/img/bluebean_logo.png" width="150" height="150" alt="Blueben Mailer Logo" >
-    <h1 class="display-5 fw-bold">Bluebean Mailer</h1>
+    <h1 class="display-5 fw-bold">Mailer Extended</h1>
     <div class="col-lg-6 mx-auto">
       <p class="lead mb-4">Simplifying your company's email campaigns. Effortlessly create, customize, and schedule mass emails. Say hello to efficient, professional communication.</p>
       <div class="d-grid gap-2 d-sm-flex justify-content-sm-center">
