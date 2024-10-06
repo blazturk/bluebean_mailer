@@ -1,4 +1,4 @@
-# Bluebean Mailer
+# Mailer Extended
 
 Bluebean Mailer is a robust and efficient PHP-based mass mailing application designed to manage and send bulk emails effortlessly. Ideal for newsletters, marketing campaigns, and large-scale communication, Bluebean Mailer ensures reliable and customizable email delivery.
 
@@ -14,11 +14,11 @@ Bluebean Mailer is a robust and efficient PHP-based mass mailing application des
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/blazturk/bluebean-mailer.git
+   git clone https://github.com/blazturk/mailer-extended.git
    ```
 2. Navigate to the project directory:
    ```sh
-   cd bluebean-mailer
+   cd mailer-extended
    ```
 3. Upload or host using XAMPP.
 4.  Import database using phpMyAdmin.
